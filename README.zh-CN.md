@@ -4,6 +4,30 @@
 
 ## 快速上手
 
+### 安装
+
+通过`pip`或`pipx`工具安装：
+
+```sh
+pip install friday
+
+pipx install friday
+
+```
+
+下载二进制可执行文件：
+
+[![Windows Download](https://img.shields.io/badge/Windows-下载-blue?logo=windows&style=for-the-badge)](https://github.com/用户名/仓库名/releases/latest/download/app-windows.exe)
+[![macOS Download](https://img.shields.io/badge/macOS-下载-blue?logo=apple&style=for-the-badge)](https://github.com/用户名/仓库名/releases/latest/download/app-macos.dmg)
+[![Linux Download](https://img.shields.io/badge/Linux-下载-blue?logo=linux&style=for-the-badge)](https://github.com/用户名/仓库名/releases/latest/download/app-linux)
+
+### 使用
+
+```sh
+friday
+
+
+```
 
 ## 能力
 
