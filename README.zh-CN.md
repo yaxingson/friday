@@ -1,7 +1,5 @@
 # F.R.I.D.A.Y
 
-[English](./README.md) | [简体中文](./README.zh-CN.md)
-
 > 本项目的灵感来源于 [ruxakK/friday_jarvis](https://github.com/ruxakK/friday_jarvis)。
 
 ## 快速上手
